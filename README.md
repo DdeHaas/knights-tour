@@ -11,14 +11,19 @@ After setting a start position you can monitor the moves by pressing `Continue` 
 
 Pressing `No monitoring` will solve the puzzle immediately and displays the result.
 
+See the latest version on: [http://knights-tour.tk/](http://knights-tour.tk/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d914359-4ea7-4ab2-897a-a77c4c3f5796/deploy-status)](https://app.netlify.com/sites/knights-tour/deploys)
+
 ## About
 
 I used Create React App to setup the initial code structure and Visual Studio Code to code the rest!
 
-See the [Knight's tour page](https://en.wikipedia.org/wiki/Knight%27s_tour) on Wikipedia for more information
+See the [Knight's tour page](https://en.wikipedia.org/wiki/Knight%27s_tour) on Wikipedia for more information.
 
 ## Setup
-To run this application use must have the latest stable version of Node.js on your machine
+
+To run this application locally use must have the latest stable version of Node.js on your machine.
 > During development this was v12.19.0.
 
 ### `npm install`
