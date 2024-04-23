@@ -11,7 +11,7 @@ After setting a start position you can monitor the moves by pressing `Continue` 
 
 Pressing `No monitoring` will solve the puzzle immediately and displays the result.
 
-See the latest version on: [http://knights-tour.tk/](http://knights-tour.tk/)
+See the latest version on: [http://knights-tour.nl/](http://knights-tour.nl/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3d914359-4ea7-4ab2-897a-a77c4c3f5796/deploy-status)](https://app.netlify.com/sites/knights-tour/deploys)
 
